@@ -2,14 +2,10 @@
 SRD significa Sistema de Roda de Dados 
 
 ----------------------------------------------
-
- ​*​ <a href="center" align="#introducao">Introdução</a> 
- ​*​ <a href="center" align="#primeirospassos">Primeiros passos</a> 
- ​*​ <a href="center" align="#copyandpaste">Copy and paste</a> 
- ​*​ <a href="center" align="#finalizacao">Finalização</a> 
- ​*​ <a href="center" align="#obs">Obs</a> 
-  
- ​#​ ​Como usar:
+* <a href="center" align="#primeirospassos">Primeiros passos</a>
+* <a href="center" align="#copyandpaste">Copy and Paste</a>
+* <a href="center" align="#finalizacao">Finalização</a>
+* <a href="center" align="#obs">Obs</a>
 
 ## Primeiros passos
 ------------------------------------------------
